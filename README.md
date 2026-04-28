@@ -1,1 +1,1 @@
-This project is part of THE ODIN PROJECT, which is a self-study course developed to learn web development. In this project, I will create a browser version of a sketchpad which will exercise my DOM manipulation skills. 
+This project is part of THE ODIN PROJECT, which is a self-study course developed to learn web development. In this project, I will create a browser version of a sketchpad which will exercise my DOM manipulation skills. # Folk-set-up-demo
